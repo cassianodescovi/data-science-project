@@ -30,11 +30,8 @@ Este projeto implementa um **Sistema de Recomendações Híbrido** que combina m
    ```bash
    git clone https://github.com/seu-usuario/hybrid-recommendation-system.git
    ```
-2. Instale as dependências:
-  ```bash
-  pip install -r requirements.txt
-   ```
-3. Certifique-se de que seu ambiente está configurado com as bibliotecas necessárias:
+
+2. Certifique-se de que seu ambiente está configurado com as bibliotecas necessárias:
 - `pandas`
 - `scikit-learn`
 - `numpy`
